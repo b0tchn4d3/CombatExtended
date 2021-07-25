@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CE_Outfits>Outfits</CE_Outfits>
+  <CE_Drugs>Medikamente</CE_Drugs>
+  <CE_EditX>Edit {0}</CE_EditX>
+  <CE_MakeLoadout>Erstelle Loadout</CE_MakeLoadout>
+  <CE_ManageLoadouts>Bearbeite Loadouts</CE_ManageLoadouts>
+  <CE_CurrentLoadout>Aktuelles Loadout</CE_CurrentLoadout>
+  <CE_Loadouts>Loadouts</CE_Loadouts>
+  <CE_Weight>Gewicht</CE_Weight>
+  <CE_Bulk>Masse</CE_Bulk>
+  <CE_outfit>Outfit</CE_outfit>
+  <CE_drugs>Drogenrichtlinien</CE_drugs>
+  <CE_loadout>Loadout</CE_loadout>
+  <CE_DetailedWeightTip>Aktuelles Gewicht: {1}\nCapacity: {0}\n\nMove speed factor: {2}\nEncumbrance penalty: {3}</CE_DetailedWeightTip>
+  <CE_DetailedBulkTip>Aktuelle Masse: {1}\nCapacity: {0}\n\nWork speed factor: {2}</CE_DetailedBulkTip>
+  <CE_DetailedBaseWeightTip>Aktuelles Gewicht: {1}\nBase capacity: {0}\n\nMove speed factor: {2}\nEncumbrance penalty: {3}</CE_DetailedBaseWeightTip>
+  <CE_DetailedBaseBulkTip>Aktuelle Masse: {1}\nBase capacity: {0}\n\nWork speed factor: {2}</CE_DetailedBaseBulkTip>
+  <CE_EmptyLoadoutName>Nichts</CE_EmptyLoadoutName>
+  <CE_NoLoadouts>Keine Loadouts</CE_NoLoadouts>
+  <CE_SelectLoadout>Wähle Loadout...</CE_SelectLoadout>
+  <CE_NewLoadout>Neues Loadout</CE_NewLoadout>
+  <CE_DeleteLoadout>Lösche loadout...</CE_DeleteLoadout>
+  <CE_CopyLoadout>Kopiere loadout</CE_CopyLoadout>
+  <CE_NoLoadoutSelected>Kein Loadout ausgewählt</CE_NoLoadoutSelected>
+  <CE_DefaultLoadoutName>Loadout</CE_DefaultLoadoutName>
+  <CE_SourceRangedTip>Wähle Fernkampfwaffen</CE_SourceRangedTip>
+  <CE_SourceMeleeTip>Wähle Nahkampfwaffen</CE_SourceMeleeTip>
+  <CE_SourceAmmoTip>Wähle Munition</CE_SourceAmmoTip>
+  <CE_SourceMinifiedTip>Wähle Minenfeld</CE_SourceMinifiedTip>
+  <CE_SourceGenericTip>Wähle Generisch</CE_SourceGenericTip>
+  <CE_SourceAllTip>Wähle alle</CE_SourceAllTip>
+  <CE_SourceFilterTip>Auswahl filtern</CE_SourceFilterTip>
+  <CE_DragToReorder>Ziehen Sie um neuzuordnen</CE_DragToReorder>
+  <CE_CountFieldTip>Ziehen Sie den Griff zum Neuordnen: {0}</CE_CountFieldTip>
+  <CE_DeleteFilter>Löschen</CE_DeleteFilter>
+  <CE_AddAmmoFor>Munition hinzufügen für {0}</CE_AddAmmoFor>
+  <CE_DropExcess>Überschuss abwerfen</CE_DropExcess>
+  <CE_PickupMissingAndDropExcess>Fehlendes abholen und Überschuss abwerfen</CE_PickupMissingAndDropExcess>
+  <CE_StatsReport_LoadedAmmo>Geladene Munition</CE_StatsReport_LoadedAmmo>
+  <CE_InventoryFull_TameFail>Hat nicht genug Platz im Inventar, um das erforderliche Futter für die Zähmung aufzunehmen.</CE_InventoryFull_TameFail>
+
+</LanguageData>
